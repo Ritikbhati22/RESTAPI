@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Demo-iPhone",
+    "price": 120000,
+    "feature": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Demo-POCO",
+    "price": 120500,
+    "feature": true,
+    "company": "MI"
+  },
+  {
+    "name": "Demo-iPhone14",
+    "price": 19037332,
+    "feature": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Demo-Samsung Note 9",
+    "price": 125000,
+    "feature": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Demo-Dell6",
+    "price": 14000,
+    "feature": true,
+    "company": "Dell"
+  },
+  {
+    "name": "Demo-Redmi Note 8",
+    "price": 12000,
+    "feature": true,
+    "company": "MI"
+  }
+]
